@@ -12,4 +12,6 @@ Prerequisites:
 * !pip install pandas
 * !pip install numpy
 * !pip install sklearn
+* !pip install statsmodels
+
 >>>>>>> 3101d946d67692b213020c4cad16b2dd743173eb
