@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 # Harry's Journey to be a People Analytics Master in Python
 
 ### Reference:
@@ -9,3 +12,4 @@ Prerequisites:
 * !pip install pandas
 * !pip install numpy
 * !pip install sklearn
+>>>>>>> 3101d946d67692b213020c4cad16b2dd743173eb
