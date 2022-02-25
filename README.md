@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Harry's Journey to be a People Analytics Master in Python
 
 ### Reference:
