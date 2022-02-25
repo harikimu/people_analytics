@@ -3,7 +3,7 @@
 ### Reference:
 [HR Analytics Master Course with Excel, Python and R in Udemy](https://www.udemy.com/course/hr-analytics-course/)
 
-Prerequisites:
+### Prerequisites:
 * !pip install matplotlib
 * !pip install scipy
 * !pip install pandas
