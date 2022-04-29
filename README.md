@@ -17,3 +17,6 @@ https://velog.io/@ljs7463/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%95%99%EC%8A%B
 
 ### 로지스틱 회귀
 https://hleecaster.com/ml-logistic-regression-concept/?ckattempt=1
+
+### Python Data Science Handbook, Jake VanderPlas
+https://jakevdp.github.io/PythonDataScienceHandbook/
